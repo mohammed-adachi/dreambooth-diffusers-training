@@ -7,11 +7,19 @@ dataset_info:
     dtype: string
   splits:
   - name: train
-    num_bytes: 209598433.0
+    num_bytes: 209598433
     num_examples: 803
   download_size: 208886058
-  dataset_size: 209598433.0
+  dataset_size: 209598433
+license: mit
+task_categories:
+- text-to-image
+language:
+- en
+size_categories:
+- n<1K
 ---
 # Dataset Card for "logo-dataset-v4"
-
-[More Information needed](https://github.com/huggingface/datasets/blob/main/CONTRIBUTING.md#how-to-contribute-to-the-dataset-cards)
+This dataset consists of 803 pairs \\( (x, y) \\), where \\( x \\) is the image and \\( y \\) is the description of the image.  
+The data have been manually collected and labelled, so the dataset is fully representative and free of rubbish.  
+The logos in the dataset are minimalist, meeting modern design requirements and reflecting the company's industry.
