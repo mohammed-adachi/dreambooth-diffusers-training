@@ -23,3 +23,6 @@ size_categories:
 This dataset consists of 803 pairs \\( (x, y) \\), where \\( x \\) is the image and \\( y \\) is the description of the image.  
 The data have been manually collected and labelled, so the dataset is fully representative and free of rubbish.  
 The logos in the dataset are minimalist, meeting modern design requirements and reflecting the company's industry.
+
+# Disclaimer
+This dataset is made available for academic research purposes only. All the images are collected from the Internet, and the copyright belongs to the original owners. If any of the images belongs to you and you would like it removed, please inform us, we will try to remove it from the dataset.
