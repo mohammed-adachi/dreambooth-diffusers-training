@@ -11,7 +11,7 @@ dataset_info:
     num_examples: 803
   download_size: 208886058
   dataset_size: 209598433
-license: mit
+license: cc-by-nc-3.0
 task_categories:
 - text-to-image
 language:
