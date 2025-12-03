@@ -25,4 +25,4 @@ The data have been manually collected and labelled, so the dataset is fully repr
 The logos in the dataset are minimalist, meeting modern design requirements and reflecting the company's industry.
 
 # Disclaimer
-This dataset is made available for academic research purposes only. All the images are collected from the Internet, and the copyright belongs to the original owners. If any of the images belongs to you and you would like it removed, please inform us, we will try to remove it from the dataset.
+This dataset is made available for academic research purposes only. All the images are collected from the Internet, and the copyright belongs to the original owners. If any of the images belongs to you and you would like it removed, please inform us, we will try to remove it from the dataset.# dreambooth-diffusers-training
