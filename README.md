@@ -34,4 +34,4 @@ Clone le projet :
 git clone https://github.com/mohammed-adachi/dreambooth-diffusers-training.git
 ## 🖼️ Exemple de logo généré
 
-![Logo généré](result/image)
+<img src="result/image" width="220">
