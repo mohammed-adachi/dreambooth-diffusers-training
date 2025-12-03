@@ -35,3 +35,7 @@ git clone https://github.com/mohammed-adachi/dreambooth-diffusers-training.git
 ## 🖼️ Exemple de logo généré
 
 <img src="result/image" width="220">
+<img src="result/image (7)" width="220">
+<img src="result/image (1)" width="220">
+<img src="result/image (8)" width="220">
+
