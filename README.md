@@ -32,3 +32,6 @@ This dataset is made available for academic research purposes only. All the imag
 
 Clone le projet :
 git clone https://github.com/mohammed-adachi/dreambooth-diffusers-training.git
+## 🖼️ Exemple de logo généré
+
+![Logo généré](result/image)
