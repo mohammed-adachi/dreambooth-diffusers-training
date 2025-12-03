@@ -28,3 +28,7 @@ The logos in the dataset are minimalist, meeting modern design requirements and 
 This dataset is made available for academic research purposes only. All the images are collected from the Internet, and the copyright belongs to the original owners. If any of the images belongs to you and you would like it removed, please inform us, we will try to remove it from the dataset.# dreambooth-diffusers-training
 # dreambooth-diffusers-training
 # dreambooth-diffusers-training
+🔧 Installation
+
+Clone le projet :
+git clone https://github.com/mohammed-adachi/dreambooth-diffusers-training.git
